@@ -1,0 +1,24 @@
+---
+title: Ben Court
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>{{ title }}</title>
+    <meta name="description" content="Cardiff based front end developer" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="{{ 'css/index.css' | url }}" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <h1 class="header__title">
+          <a href="/" class="header__link">Ben Court</a>
+        </h1>
+      </header>
+      <main class="content">{{ content | safe }}</main>
+      <footer class="footer">Made with <a href="https://www.11ty.dev">11ty</a></footer>
+    </div>
+  </body>
+</html>
