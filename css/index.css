@@ -6,7 +6,13 @@
   --footer: #E5E5E5;
 
   --padding: 1rem 2rem;
-  --paddingLarge: 2rem;
+  --paddingLarge: 2rem 1.5rem;
+}
+
+@media (min-width: 480px) {
+  :root {
+    --paddingLarge: 2rem;
+  }
 }
 
 @media (prefers-color-scheme: dark) {
@@ -65,17 +71,20 @@ h3::before {
 }
 
 p {
+  line-height: 2;
   margin: 0 0 1rem;
 }
 
 ul {
   list-style: none;
+  line-height: 1.8;
   margin: 0 0 1rem;
-  padding: 0 0 0 0.75rem;
+  padding: 0;
 }
 
 li::before {
-  content: '- ';
+  content: '-';
+  margin: 0 0.75rem;
 }
 
 a {

@@ -13,7 +13,7 @@ Consumer of APIs and IPAs
 <span aria-hidden="true">&nbsp;🍺</span>
 <br />
 <span aria-hidden="true">⚽️&nbsp;</span>
-Supporter of West Ham United &amp; 1. FC Köln
+Supporter of West Ham &amp; 1. FC Köln
 <span aria-hidden="true">&nbsp;⚒️&nbsp;🐐</span>
 
 ### Social
