@@ -8,41 +8,27 @@ description: CV for Ben Court, Cardiff based front end developer
 
 I have been working professionally as a web developer for nine years. During that time I have gained experience across the full stack but found that my skillset and interests lie in front end with a focus on accessibility and performance.
 
-I have experience working in a range of different environments and team sizes, including sole front end developer, part of an agency team, in-house product team and a remote startup.
+I have worked in a range of different environments and team sizes, including sole front end developer, part of an agency team, in-house product team and a remote startup.
+
+My interest in computers started at a young age with my first taste of web development coming when I taught myself (D)HTML and CSS to customise my MySpace profile. From then on it became a hobby which I kept up in my spare time whilst studying and pursuing a career in music.
+
+After a short career as a professional musician I decided to turn to one of the only other things I was passionate about in to a career and proceeded to spend my evenings and weekends brushing up on my skills until I was able to get a role as a junior developer.
 
 
 ## Relevant Skills
 
 My main expertise are HTML, CSS and JavaScript. I have limited experience with other languages including PHP and Python.
 
-I have worked with and gained experience using many different tools, frameworks, libraries and templating languages including:
+Throughout my career I have gained experience with many different tools, frameworks and libraries. The main ones I still actively use being:
 
+- Git
 - React
-- GraphQL
-- Vue
-- Angular
+- TypeScript
+- SASS
 - Node/NPM
-- Express
 - Jest
 - Webpack
-- TypeScript
-- Razor
-- Handlebars
-- Gulp
-- SASS
-- Git
 
-## Examples of Work
-
-Many of the websites I’ve worked on have been internal sites, are not yet released or have been rebuilt since, but a few examples of websites I have worked on can be found below:
-
-- <a href="https://further.pi-top.com" rel="noreferrer noopener">https://further.pi-top.com</a>
-- <a href="https://www.hitched.co.uk" rel="noreferrer noopener">https://www.hitched.co.uk</a>
-- <a href="https://www.eteach.com" rel="noreferrer noopener">https://www.eteach.com</a>
-- <a href="https://schoolrecruiter.co.uk" rel="noreferrer noopener">https://schoolrecruiter.co.uk</a>
-- <a href="https://www.robertgilesagencies.com" rel="noreferrer noopener">https://www.robertgilesagencies.com</a>
-- <a href="https://www.liquidpersonnel.com" rel="noreferrer noopener">https://www.liquidpersonnel.com</a>
-- <a href="https://www.trustatrader.com/" rel="noreferrer noopener">https://www.trustatrader.com/</a>
 
 ## Relevant Career History
 
