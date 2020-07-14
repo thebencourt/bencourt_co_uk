@@ -1,14 +1,16 @@
 ---
 title: Ben Court
+description: Cardiff based front end developer
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
   <head>
     <title>{{ title }}</title>
-    <meta name="description" content="Cardiff based front end developer" />
+    <meta name="description" content="{{ description }}" />
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="{{ 'css/index.css' | url }}" />
+    <link href="https://fonts.googleapis.com/css2?family=Special+Elite&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ '/css/index.css' | url }}" />
   </head>
   <body>
     <div class="wrapper">
@@ -16,6 +18,7 @@ title: Ben Court
         <h1 class="header__title">
           <a href="/" class="header__link">Ben Court</a>
         </h1>
+        <a class="header__link" href="/cv">CV</a>
       </header>
       <main class="content">{{ content | safe }}</main>
       <footer class="footer">Made with <a href="https://www.11ty.dev">11ty</a></footer>
