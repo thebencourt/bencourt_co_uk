@@ -67,7 +67,7 @@ Many of the websites I’ve worked on have been internal sites, are not yet rele
 
   A software company and agency focusing on the travel sector.
 
-  <strong>Main Tech stack:</strong> React, SASS, Next.js, Umbraco, Sitecore
+  <strong>Tech stack:</strong> React, SASS, Next.js, TypeScript, GraphQL, Umbraco, Sitecore
 
   Working as part of the agency team, my role involves supporting and developing existing and new client websites as well as mentoring junior developers and ensuring that the frontend tech stack stays up to date.
 </article>
