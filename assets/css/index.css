@@ -3,7 +3,7 @@
   font-display: swap;
   font-style: normal;
   font-weight: normal;
-  src: local('Special Elite'), url('/fonts/SpecialElite.woff') format('woff');
+  src: local('Special Elite'), url('/assets/fonts/SpecialElite.woff') format('woff');
 }
 
 :root {
