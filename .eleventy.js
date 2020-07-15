@@ -5,5 +5,5 @@ module.exports = eleventyConfig => {
   ]);
 
   eleventyConfig.addPassthroughCopy('./_headers');
-  eleventyConfig.addPassthroughCopy('css');
+  eleventyConfig.addPassthroughCopy('assets');
 };
