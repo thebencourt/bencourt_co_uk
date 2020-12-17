@@ -4,9 +4,9 @@ layout: main
 
 ## About
 
-<span aria-hidden="true">👨‍💻&nbsp;</span>
-Senior Front End Developer at <a href="https://www.inspiretec.com" rel="noreferrer noopener">Inspiretec</a>
 <span aria-hidden="true">&nbsp;🏴󠁧󠁢󠁷󠁬󠁳󠁿</span>
+Cardiff based front end developer, working at <a href="https://studee.com" rel="noreferrer noopener">Studee</a>
+<span aria-hidden="true">👨‍💻&nbsp;</span>
 <br />
 <span aria-hidden="true">💻&nbsp;</span>
 Consumer of APIs and IPAs
