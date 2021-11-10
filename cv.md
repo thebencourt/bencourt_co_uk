@@ -49,7 +49,7 @@ Throughout my career I have gained experience with many different tools, framewo
     </p>
   </header>
 
-A software company and agency focusing on the travel sector.
+An ed-tech startup helping students find and enrol in universities abroad.
 
 <strong>Tech stack:</strong> HTML, SASS, Web Components, Node.js, Express, Handlebars
 
