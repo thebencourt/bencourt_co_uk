@@ -6,7 +6,7 @@ description: CV for Ben Court, Cardiff based front end developer
 
 ## Intro
 
-I have been working professionally as a web developer for ten years. During that time I have gained experience across the full stack but found that my skills and interests lie in front end with a focus on accessibility and performance.
+I have been working professionally as a web developer for over ten years. During that time I have gained experience across the full stack but found that my skills and interests lie in front end with a focus on accessibility and performance.
 
 I have worked in a range of different environments and team sizes, including sole front end developer, part of an agency team, in-house product team and remote startups.
 
@@ -34,6 +34,29 @@ Throughout my career I have gained experience with many different tools, framewo
 
   <header class="job__header">
     <h3 class="job__title">
+      Senior Front End Engineer, 
+      <a href="https://sonovate.com" rel="noreferrer noopener">Sonovate</a>
+    </h3>
+    <p class="job__dates">
+      <time class="job__date" datetime="2022-01">
+        January 
+        <span class="job__dateYear">2022</span>
+      </time>
+      <span class="job__dateTo">to</span>
+      <time class="job__date" datetime="2022">
+        Present
+      </time>
+    </p>
+  </header>
+
+<strong>Tech stack:</strong> React, Next.js, Apollo GraphQL, TypeScript, Styled Components, Jest, Playwright
+
+</article>
+
+<article class="job">
+
+  <header class="job__header">
+    <h3 class="job__title">
       Front End Engineer, 
       <a href="https://studee.com" rel="noreferrer noopener">Studee</a>
     </h3>
@@ -43,8 +66,9 @@ Throughout my career I have gained experience with many different tools, framewo
         <span class="job__dateYear">2020</span>
       </time>
       <span class="job__dateTo">to</span>
-      <time class="job__date" datetime="2021">
-        Present
+      <time class="job__date" datetime="2022-01">
+        January
+        <span class="job__dateYear">2022</span>
       </time>
     </p>
   </header>
@@ -72,6 +96,7 @@ Estimating, planning and breaking down requirement documents in to stories and s
       <span class="job__dateTo">to</span>
       <time class="job__date" datetime="2020-11">
         November
+        <span class="job__dateYear">2020</span>
       </time>
     </p>
   </header>
