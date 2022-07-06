@@ -14,6 +14,7 @@ Consumer of APIs and IPAs
 <br />
 <span aria-hidden="true">🏎&nbsp;</span>
 Formula 1 fan
+<span aria-hidden="true">&nbsp;🏁</span>
 <br />
 <span aria-hidden="true">⚽️&nbsp;</span>
 Supporter of West Ham &amp; 1. FC Köln
