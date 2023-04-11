@@ -6,7 +6,7 @@ description: CV for Ben Court, Cardiff based front end developer
 
 ## Intro
 
-I have been working professionally as a web developer for over ten years. During that time I have gained experience across the full stack but found that my skills and interests lie in front end with a focus on accessibility and performance.
+I have been working professionally as a web developer for twelve years. During that time I have gained experience across the full stack but found that my skills and interests lie in front end with a focus on accessibility and performance.
 
 I have worked in a range of different environments and team sizes, including sole front end developer, part of an agency team, in-house product team and remote startups.
 
@@ -78,6 +78,10 @@ An ed-tech startup helping students find and enrol in universities abroad.
 <strong>Tech stack:</strong> HTML, SASS, Web Components, Node.js, Express, Handlebars
 
 Estimating, planning and breaking down requirement documents in to stories and sub-tasks to be worked on in two week sprints. Developing new features for the site as well as maintenance of existing code. Monitoring site performance. Introducing new techniques/methods to improve the accessibility, performance and maintainability of the site. Adding tests to improve code coverage and reduce regressions.
+
+Introduced web components in to the tech stack to easily create reusable components and take advantage of progressive enhancement to ensure the site worked without JavaScript.
+
+Used service workers to take advantage of modern browser features such as progressive web app support and pre-caching UI assets improving the site performance.
 
 </article>
 
