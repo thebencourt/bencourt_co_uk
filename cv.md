@@ -6,7 +6,7 @@ description: CV for Ben Court, Cardiff based front end developer
 
 ## Intro
 
-I have been working professionally as a web developer for twelve years. During that time I have gained experience across the full stack but found that my skills and interests lie in front end with a focus on accessibility and performance.
+I have been working professionally as a web developer for twelve years. During that time I have gained experience across the full stack but found that my skills and interests lie in front end with a focus on accessibility, performance and progressive web apps.
 
 I have worked in a range of different environments and team sizes, including sole front end developer, part of an agency team, in-house product team and remote startups.
 
