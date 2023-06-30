@@ -21,7 +21,7 @@ Supporter of West Ham &amp; 1. FC Köln
 <span aria-hidden="true">&nbsp;⚒️&nbsp;🐐</span>
 
 ## Social
-
+- <a rel="me noreferrer noopener" href="https://mas.to/@bencourt">Mastodon</a>
 - <a href="https://twitter.com/thebencourt" rel="noreferrer noopener">Twitter</a>
 - <a href="https://github.com/thebencourt" rel="noreferrer noopener">Github</a>
 - <a href="https://www.linkedin.com/in/ben-court-96163a103/" rel="noreferrer noopener">LinkedIn</a>
