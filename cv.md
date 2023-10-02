@@ -20,15 +20,38 @@ My main expertise are HTML, CSS and JavaScript. I have limited experience with o
 
 Throughout my career I have gained experience with many different tools, frameworks and libraries. The main ones I still actively use being:
 
-- Git
-- Web Components
-- SASS
-- Node/NPM
+- Next.js
 - React
 - TypeScript
 - Jest
+- SASS
+- Node/NPM
+- Git
 
 ## Relevant Career History
+
+<article class="job">
+
+  <header class="job__header">
+    <h3 class="job__title">
+      Senior Software Engineer, 
+      <a href="https://www.roku.com" rel="noreferrer noopener">Roku</a>
+    </h3>
+    <p class="job__dates">
+      <time class="job__date" datetime="2023-08">
+        August 
+        <span class="job__dateYear">2023</span>
+      </time>
+      <span class="job__dateTo">to</span>
+      <time class="job__date" datetime="2023">
+        Present
+      </time>
+    </p>
+  </header>
+
+<strong>Tech stack:</strong> React, SASS, Express
+
+</article>
 
 <article class="job">
 
@@ -43,8 +66,9 @@ Throughout my career I have gained experience with many different tools, framewo
         <span class="job__dateYear">2022</span>
       </time>
       <span class="job__dateTo">to</span>
-      <time class="job__date" datetime="2022">
-        Present
+      <time class="job__date" datetime="2023-08">
+        August 
+        <span class="job__dateYear">2023</span>
       </time>
     </p>
   </header>
