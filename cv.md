@@ -35,6 +35,29 @@ Throughout my career I have gained experience with many different tools, framewo
   <header class="job__header">
     <h3 class="job__title">
       Senior Software Engineer, 
+      <a href="https://uw.co.uk" rel="noreferrer noopener">Utility Warehouse</a>
+    </h3>
+    <p class="job__dates">
+      <time class="job__date" datetime="2023-12">
+        December 
+        <span class="job__dateYear">2023</span>
+      </time>
+      <span class="job__dateTo">to</span>
+      <time class="job__date" datetime="2023">
+        Present
+      </time>
+    </p>
+  </header>
+
+<strong>Tech stack:</strong> React, GraphQL, TypeScript
+
+</article>
+
+<article class="job">
+
+  <header class="job__header">
+    <h3 class="job__title">
+      Senior Software Engineer, 
       <a href="https://www.roku.com" rel="noreferrer noopener">Roku</a>
     </h3>
     <p class="job__dates">
@@ -43,8 +66,9 @@ Throughout my career I have gained experience with many different tools, framewo
         <span class="job__dateYear">2023</span>
       </time>
       <span class="job__dateTo">to</span>
-      <time class="job__date" datetime="2023">
-        Present
+      <time class="job__date" datetime="2023-12">
+        December 
+        <span class="job__dateYear">2023</span>
       </time>
     </p>
   </header>
