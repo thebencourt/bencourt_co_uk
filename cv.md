@@ -6,13 +6,13 @@ description: CV for Ben Court, Cardiff based front end developer
 
 ## Intro
 
-I have been working professionally as a web developer for twelve years. During that time I have gained experience across the full stack but found that my skills and interests lie in front end with a focus on accessibility, performance and progressive web apps.
+I have been working professionally as a web developer for thirteen years. During that time I have gained experience across the full stack but found that my skills and interests lie in the front end with a focus on mobile development, accessibility, performance and progressive web apps.
 
 I have worked in a range of different environments and team sizes, including sole front end developer, part of an agency team, in-house product team and remote startups.
 
 My interest in computers started at a young age with my first taste of web development coming when I taught myself (D)HTML and CSS to customise my MySpace profile. From then on it became a hobby which I kept up in my spare time whilst studying and pursuing a career in music.
 
-After a short career as a professional musician I decided to turn one of the only other things I was passionate about in to a career and proceeded to spend my evenings and weekends brushing up on my skills until I was able to get a role as a junior developer.
+After a short career as a professional musician I decided to turn one of the only other things I was passionate about into a career and proceeded to spend my evenings and weekends brushing up on my skills until I was able to get a role as a junior developer.
 
 ## Relevant Skills
 
@@ -22,11 +22,12 @@ Throughout my career I have gained experience with many different tools, framewo
 
 - Next.js
 - React
+- GraphQL
 - TypeScript
 - Jest
-- SASS
-- Node/NPM
-- Git
+- Playwright
+- Styled Components
+- MUI
 
 ## Relevant Career History
 
@@ -49,7 +50,9 @@ Throughout my career I have gained experience with many different tools, framewo
     </p>
   </header>
 
-<strong>Tech stack:</strong> React, GraphQL, TypeScript
+<strong>Tech stack:</strong> React, Next.js, MUI, Storybook, GraphQL, React Query, Redux, Jest
+
+I work as part of the Partner Status & Compensation team on the partner portal website which is used by UW Partners to manage their business and provides insights into their commission earned and changes within their team.
 
 </article>
 
@@ -73,7 +76,9 @@ Throughout my career I have gained experience with many different tools, framewo
     </p>
   </header>
 
-<strong>Tech stack:</strong> React, SASS, Express
+<strong>Tech stack:</strong> React, TypeScript, SASS, Node.js, Express, Storybook
+
+I worked as part of the marketing UX team on the rebranding of the Roku advertising site. My main tasks were taking designs and breaking them down to tickets, estimating the work to be planned into upcoming sprints and creating the components using React & Material UI as well as integrating them into a custom CMS so that all content was editable by the marketing team.
 
 </article>
 
@@ -125,9 +130,9 @@ An ed-tech startup helping students find and enrol in universities abroad.
 
 <strong>Tech stack:</strong> HTML, SASS, Web Components, Node.js, Express, Handlebars
 
-Estimating, planning and breaking down requirement documents in to stories and sub-tasks to be worked on in two week sprints. Developing new features for the site as well as maintenance of existing code. Monitoring site performance. Introducing new techniques/methods to improve the accessibility, performance and maintainability of the site. Adding tests to improve code coverage and reduce regressions.
+Estimating, planning and breaking down requirement documents into stories and sub-tasks to be worked on in two week sprints. Developing new features for the site as well as maintenance of existing code. Monitoring site performance. Introducing new techniques/methods to improve the accessibility, performance and maintainability of the site. Adding tests to improve code coverage and reduce regressions.
 
-Introduced web components in to the tech stack to easily create reusable components and take advantage of progressive enhancement to ensure the site worked without JavaScript.
+Introduced web components into the tech stack to easily create reusable components and take advantage of progressive enhancement to ensure the site worked without JavaScript.
 
 Used service workers to take advantage of modern browser features such as progressive web app support and pre-caching UI assets improving the site performance.
 
@@ -272,7 +277,7 @@ The UK’s largest wedding planning website.
 
 The original code base was over 15 years old, written using ASP web forms and jQuery on the front end for client side features. The performance of the site had become very bad which was affecting their popularity as newer competitors had much faster websites.
 
-We decided that the best way forward was to start breaking the site in to smaller micro services which could then be written from scratch using modern frameworks with performance in mind. I worked on the ﬁrst micro service which was a supplier search directory written using TypeScript and React. It featured isomorphic rendering using Express and communicated with a restful API.
+We decided that the best way forward was to start breaking the site into smaller micro services which could then be written from scratch using modern frameworks with performance in mind. I worked on the ﬁrst micro service which was a supplier search directory written using TypeScript and React. It featured isomorphic rendering using Express and communicated with a restful API.
 
 As well as that I worked on adding new features to the existing site, bug ﬁxing and refactoring the legacy codebase using TypeScript and SASS and improving performance where possible. I also created a POC mobile app using React Native.
 
@@ -301,11 +306,11 @@ A recruitment company/job board that specialised in education jobs.
 
 <strong>Tech stack:</strong> AngularJS, JavaScript, SASS, jQuery
 
-My main project was working on an internal website allowing staff to search through a database of over 1 million candidates to match client requirements, ﬁlter results, create short lists and if no suitable candidates were found they could turn the search in to a job advert which was posted to the main job board site.
+My main project was working on an internal website allowing staff to search through a database of over 1 million candidates to match client requirements, ﬁlter results, create short lists and if no suitable candidates were found they could turn the search into a job advert which was posted to the main job board site.
 
 On top of this I also built a number of static marketing sites for various areas of the business and worked on updating the main job board site to add responsive styling and improve performance.
 
-As the sole front end developer I had to chose the tech stack used for any front end projects. I gained experience with task runners and building/bundling libraries such as Grunt, Gulp and Webpack. The internal search tool was built using Angular (v1) and marketing sites were built using HTML, CSS and JavaScript.
+As the sole front end developer I had to choose the tech stack used for any front end projects. I gained experience with task runners and building/bundling libraries such as Grunt, Gulp and Webpack. The internal search tool was built using Angular (v1) and marketing sites were built using HTML, CSS and JavaScript.
 
 </article>
 
