@@ -104,6 +104,9 @@ I worked as part of the marketing UX team on the rebranding of the Roku advertis
 
 <strong>Tech stack:</strong> React, Next.js, Apollo GraphQL, TypeScript, Styled Components, Jest, Playwright
 
+Working on the rewrite of their invoice funding platform which is currently in beta. Development teams follow the Spotify model where I am the UI developer for a feature squad as well as being a member of the UI chapter.
+Work ranged across the full UI stack from Apollo GraphQL server to React components in Storybook for use across a number of Next.js apps.
+
 </article>
 
 <article class="job">
