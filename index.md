@@ -11,18 +11,6 @@ Cardiff based front end developer, working at <a href="https://uw.co.uk" rel="no
 <span aria-hidden="true">💻&nbsp;</span>
 Consumer of APIs and IPAs
 <span aria-hidden="true">&nbsp;🍺</span>
-<br />
-<span aria-hidden="true">🏃&nbsp;</span>
-Running punk
-<span aria-hidden="true">&nbsp;🤘</span>
-<br />
-<span aria-hidden="true">🏎&nbsp;</span>
-Formula 1 fan
-<span aria-hidden="true">&nbsp;🏁</span>
-<br />
-<span aria-hidden="true">⚽️&nbsp;</span>
-Supporter of West Ham &amp; 1. FC Köln
-<span aria-hidden="true">&nbsp;⚒️&nbsp;🐐</span>
 
 ## Social
 - <a href="https://github.com/thebencourt" rel="noreferrer noopener">Github</a>
