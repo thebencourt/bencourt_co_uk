@@ -5,7 +5,7 @@ layout: main
 ## About
 
 <span aria-hidden="true">&nbsp;🏴󠁧󠁢󠁷󠁬󠁳󠁿</span>
-Cardiff based front end developer, working at <a href="https://uw.co.uk" rel="noreferrer noopener">Utility Warehouse</a>
+Cardiff based senior front end developer, working at <a href="https://uw.co.uk" rel="noreferrer noopener">Utility Warehouse</a>
 <span aria-hidden="true">👨‍💻&nbsp;</span>
 <br />
 <span aria-hidden="true">💻&nbsp;</span>

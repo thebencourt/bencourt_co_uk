@@ -44,15 +44,19 @@ Throughout my career I have gained experience with many different tools, framewo
         <span class="job__dateYear">2023</span>
       </time>
       <span class="job__dateTo">to</span>
-      <time class="job__date" datetime="2023">
+      <time class="job__date" datetime="2026">
         Present
       </time>
     </p>
   </header>
 
-<strong>Tech stack:</strong> React, Next.js, MUI, Storybook, GraphQL, React Query, Redux, Jest
+<strong>Tech stack:</strong> React, Next.js, MUI, Storybook, GraphQL, React Query, Redux, Jest, Playwright, Figma
 
-I work as part of the Partner Status & Compensation team on the partner portal website which is used by UW Partners to manage their business and provides insights into their commission earned and changes within their team.
+Worked within the Partner Status & Compensation team to develop and maintain a partner portal used by UW Partners to manage their business, track commission earnings, and monitor team changes.
+
+Contributed to a major redevelopment of the web application, transitioning it to a modern stack including Next.js, TypeScript, GraphQL, and CSS Modules, with Jest and Playwright implemented for robust testing.
+
+Independently led front-end development for an in-house partner statements solution, utilising the React PDF library to generate dynamic PDF statements from JSON data.
 
 </article>
 
