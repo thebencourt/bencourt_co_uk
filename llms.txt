@@ -1,0 +1,29 @@
+# Ben Court
+
+## About
+Ben Court is a Cardiff-based senior front-end developer currently working at Utility Warehouse. His work focuses on front-end engineering, accessibility, performance optimisation, and progressive web applications.
+
+## Website
+- Homepage: https://bencourt.co.uk/
+- CV: https://bencourt.co.uk/cv/
+- GitHub: https://github.com/thebencourt
+- LinkedIn: https://www.linkedin.com/in/ben-court-96163a103/
+
+## Skills
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- GraphQL
+- Jest
+- Playwright
+- Styled Components
+- Material UI (MUI)
+
+## Background
+Ben has over fifteen years of professional web development experience and has worked across agency, in-house product, and startup environments. He has a strong focus on mobile-first design, accessible interfaces, and front-end architecture.
+
+## Content
+This site is a personal portfolio and CV for Ben Court. It outlines his experience, career history, and technical interests.
