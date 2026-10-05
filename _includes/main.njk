@@ -9,6 +9,16 @@ description: Cardiff based front end developer
     <meta name="description" content="{{ description }}">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="{{ '/favicon.ico' | url }}" sizes="any">
+    <link rel="icon" href="{{ '/favicon-16x16.png' | url }}" type="image/png" sizes="16x16">
+    <link rel="icon" href="{{ '/favicon-32x32.png' | url }}" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="{{ '/apple-touch-icon.png' | url }}">
+    <link rel="canonical" href="https://bencourt.co.uk{{ page.url | url }}">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ title }}">
+    <meta property="og:description" content="{{ description }}">
+    <meta property="og:url" content="https://bencourt.co.uk{{ page.url | url }}">
+    <meta name="twitter:card" content="summary">
     <link rel="stylesheet" href="{{ '/assets/css/index.css' | url }}">
   </head>
   <body>
@@ -17,7 +27,9 @@ description: Cardiff based front end developer
         <h1>
           <a href="/">Ben Court</a>
         </h1>
-        <a href="/cv">CV</a>
+        <nav aria-label="Main">
+          <a href="/cv">CV</a>
+        </nav>
       </header>
       <main class="content">{{ content | safe }}</main>
       <footer class="footer">Made with <a href="https://www.11ty.dev">11ty</a></footer>
