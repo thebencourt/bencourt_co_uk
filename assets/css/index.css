@@ -10,25 +10,22 @@
   navigation: auto;
 }
 
-::view-transition-old(root) {
-  animation: 150ms ease-out both page-exit;
+::view-transition-old(root),
+::view-transition-new(root),
+::view-transition-old(header),
+::view-transition-new(header),
+::view-transition-old(page-content) {
+  animation: none;
 }
 
-::view-transition-new(root) {
-  animation: 200ms ease-out both page-enter;
-}
-
-@keyframes page-exit {
-  to {
-    opacity: 0;
-    transform: translateY(-0.5rem);
-  }
+::view-transition-new(page-content) {
+  animation: 360ms cubic-bezier(0.22, 1, 0.36, 1) both page-enter;
 }
 
 @keyframes page-enter {
   from {
     opacity: 0;
-    transform: translateY(0.5rem);
+    transform: translateY(8px);
   }
 }
 
@@ -151,6 +148,7 @@ a:focus-visible {
   display: flex;
   justify-content: space-between;
   padding: var(--spacing-md) var(--spacing-lg);
+  view-transition-name: header;
 }
 
 @scope (.header) {
@@ -172,8 +170,10 @@ a:focus-visible {
 }
 
 .content {
+  background-color: var(--background);
   flex: 1;
   padding: var(--spacing-lg) var(--spacing-md);
+  view-transition-name: page-content;
 
   @media (min-width: 480px) {
     & {
