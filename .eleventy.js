@@ -1,8 +1,15 @@
+const { readFileSync } = require('node:fs');
+const path = require('node:path');
+
 module.exports = eleventyConfig => {
   eleventyConfig.setTemplateFormats([
     'njk',
     'md',
   ]);
+
+  const stylesheetPath = path.join(__dirname, 'assets/css/index.css');
+  eleventyConfig.addShortcode('inlineCss', () => readFileSync(stylesheetPath, 'utf8'));
+  eleventyConfig.addWatchTarget(stylesheetPath);
 
   eleventyConfig.addPassthroughCopy('./_headers');
   eleventyConfig.addPassthroughCopy('assets');
