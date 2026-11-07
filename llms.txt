@@ -25,5 +25,19 @@ Ben Court is a Cardiff-based senior front-end developer currently working at Uti
 ## Background
 Ben has over fifteen years of professional web development experience and has worked across agency, in-house product, and startup environments. He has a strong focus on mobile-first design, accessible interfaces, and front-end architecture.
 
+## Experience
+- Senior Software Engineer at Utility Warehouse (Dec 2023 – Present)
+- Senior Software Engineer at Roku (Aug 2023 – Dec 2023)
+- Senior Front End Engineer at Sonovate (Jan 2022 – Aug 2023)
+- Front End Engineer at Studee (Nov 2020 – Jan 2022)
+- Senior Front End Developer at Inspiretec (Oct 2019 – Nov 2020)
+- Senior Front End Developer at TrakCel (Aug 2019 – Oct 2019)
+- Web Developer at Pi-top (Sep 2018 – Aug 2019)
+- Front End Developer at Inspiretec (Mar 2018 – Sep 2018)
+- Senior UI Developer at Hitched (Aug 2016 – Mar 2018)
+- Front End Developer at Eteach (Aug 2015 – Aug 2016)
+- Front End Developer at The Strategies Group (May 2012 – Aug 2015)
+- Junior Web Designer/Developer at Snailwhale (May 2011 – May 2012)
+
 ## Content
 This site is a personal portfolio and CV for Ben Court. It outlines his experience, career history, and technical interests.

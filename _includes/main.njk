@@ -9,6 +9,7 @@ description: Cardiff based front end developer
     <meta name="description" content="{{ description }}">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="color-scheme" content="dark light">
     <link rel="icon" href="{{ '/favicon.ico' | url }}" sizes="any">
     <link rel="icon" href="{{ '/favicon-16x16.png' | url }}" type="image/png" sizes="16x16">
     <link rel="icon" href="{{ '/favicon-32x32.png' | url }}" type="image/png" sizes="32x32">
@@ -23,17 +24,44 @@ description: Cardiff based front end developer
   </head>
   <body>
     <div class="wrapper">
+      <a href="#main-content" class="skip-link">Skip to main content</a>
       <header class="header">
-        <h1>
-          <a href="/">Ben Court</a>
-        </h1>
-        <nav aria-label="Main">
-          <a href="/cv">CV</a>
-        </nav>
+        <div class="header__nav">
+          <h1 class="header__brand">
+            <a href="/">Ben Court</a>
+          </h1>
+          <nav aria-label="Main" class="header__links">
+            <a href="/" {% if page.url == "/" %}aria-current="page"{% endif %}><span aria-hidden="true">[1] ~/</span>home</a>
+            <a href="/cv" {% if "/cv" in page.url %}aria-current="page"{% endif %}><span aria-hidden="true">[2] ~/</span>cv</a>
+          </nav>
+        </div>
+        <div class="header__controls">
+          <span class="header__branch" aria-hidden="true">
+            <svg class="header__branch-icon" viewBox="0 0 16 16" width="14" height="14" fill="currentColor" aria-hidden="true">
+              <path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path>
+            </svg>
+            main
+          </span>
+          <div class="theme-picker">
+            <label for="theme-select" class="theme-picker__label">Theme:</label>
+            <select id="theme-select" name="theme" class="theme-select">
+              <option value="dracula" selected>Dracula</option>
+              <option value="tokyonight">Tokyo Night</option>
+              <option value="monokai">Monokai Dark</option>
+              <option value="catppuccin">Catppuccin Mocha</option>
+              <option value="gruvbox">Gruvbox Dark</option>
+              <option value="nord">Nord</option>
+              <option value="synthwave">Synthwave '84</option>
+              <option value="latte">Catppuccin Latte</option>
+            </select>
+          </div>
+        </div>
       </header>
-      <main class="content">{{ content | safe }}</main>
-      <footer class="footer">Made with <a href="https://www.11ty.dev">11ty</a></footer>
+      <main id="main-content" tabindex="-1" class="content">{{ content | safe }}</main>
+      <footer class="footer">
+        <span class="footer__hints" aria-hidden="true"><strong>Tab</strong>: focus panel &bull; <strong>Enter</strong>: inspect</span>
+        <span>Made with <a href="https://www.11ty.dev">11ty</a></span>
+      </footer>
     </div>
-    
   </body>
 </html>
